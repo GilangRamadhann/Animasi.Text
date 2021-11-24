@@ -1,0 +1,2 @@
+# Animasi.Text
+animasi tek
